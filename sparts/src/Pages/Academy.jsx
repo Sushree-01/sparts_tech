@@ -1,4 +1,3 @@
-// import React from 'react'
 import { Slide1 } from "../Components/Slide1";
 
 export const Academy = () => {

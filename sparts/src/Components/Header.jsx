@@ -1,7 +1,5 @@
-// import React from 'react'
 import { MdNavigateNext } from "react-icons/md";
-
-export const Header = () => {
+ const Header = () => {
   return (
     <div>
       <div className=" md:h-[500px] py-5 md:p-0">
@@ -40,3 +38,4 @@ export const Header = () => {
     </div>
   );
 };
+export default Header

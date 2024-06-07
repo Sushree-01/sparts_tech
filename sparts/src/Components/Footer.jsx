@@ -1,6 +1,4 @@
-// import React from 'react'
-
-export const Footer = () => {
+ const Footer = () => {
   return (
     <>
       <footer className=" h-[300px] bg-yellow-500 pb-10 pt-10">
@@ -26,3 +24,5 @@ export const Footer = () => {
     </>
   );
 };
+
+export default Footer;

@@ -1,4 +1,3 @@
-// import React from 'react'
 import { Slider2 } from "../Components/Slider2";
 
 export const Testinomial = () => {
